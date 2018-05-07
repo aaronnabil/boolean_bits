@@ -9,6 +9,7 @@ This project is based on [Dave's Boolean Bits](https://hackaday.io/project/21660
 - Breadboard compatible
 - Designed in KiCAD
 - Modules and panel shared on Oshpark, with BOM from Digikey
+- Textile/sewable version, similar footprint to [Adafruit's sewable neopixels](https://learn.adafruit.com/flora-rgb-smart-pixels)
 
 ## Use
 
