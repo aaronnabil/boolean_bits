@@ -1,2 +1,15 @@
 # boolean_bits
 Bit logic breadboard compatible modules
+
+This project is based on [Dave's Boolean Bits](https://hackaday.io/project/21660-daves-boolean-bits) which I got from [Tindie](https://www.tindie.com/products/prpplague/daves-boolean-bits/) but is now longer available for sale.
+
+## Objectives
+
+- PBC compatible with CNC fabrication
+- Breadboard compatible
+- Designed in KiCAD
+- Modules and panel shared on Oshpark, with BOM from Digikey
+
+## Use
+
+This modules are perfect for teaching logic before starting with FPGAs.
